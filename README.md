@@ -19,5 +19,5 @@ go build
 To run the crypto oracle:
 
 ```bash
-./dfinity-crypto-oracle
+./dfinity-oracle-crypto
 ```
